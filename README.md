@@ -16,7 +16,7 @@ The main objective of this workshop is to develop a robust forecasting model tha
   
 - **Preprocessing:** Cleanse and prepare the data for modeling, handling missing values, and addressing outliers.
   
-- **Model Development:** Implement various time series forecasting techniques such as machine learning algorithms like LSTM and XGBoost.
+- **Model Development:** Implement various time series forecasting techniques such as machine learning algorithms like GRU and LSTM.
 
 - **Evaluation:** Assess the accuracy of your models using appropriate evaluation metrics, ensuring the reliability of your predictions.
 
@@ -39,4 +39,3 @@ Clone the workshop repository and install the dependencies by running:
 ```bash
 git clone https://github.com/thanoskaravangelis/pko_forecasting.git
 cd pko_forecasting
-pip install -r requirements.txt
