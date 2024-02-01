@@ -24,6 +24,10 @@ The main objective of this workshop is to develop a robust forecasting model tha
 
 ## Getting Started
 
+### Dataset
+
+The final dataset is in folder `data` named `PKO_Initial_Dataset.xlsx`.
+
 ### Prerequisites
 
 Before diving into the workshop, make sure you have the following:
